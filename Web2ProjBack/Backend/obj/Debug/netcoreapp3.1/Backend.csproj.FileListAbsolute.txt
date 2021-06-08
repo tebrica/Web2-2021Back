@@ -89,3 +89,4 @@ C:\Users\tebrica\source\repos\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netco
 C:\Users\tebrica\source\repos\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.dll
 C:\Users\tebrica\source\repos\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
 C:\Users\tebrica\source\repos\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+C:\Users\tebrica\source\repos\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
