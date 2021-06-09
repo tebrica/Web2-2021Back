@@ -19,5 +19,16 @@ namespace Backend.Models
        DISKONEKTOR
     };
 
+    public enum TipRada
+    {
+        PLANIRANI_RAD,
+        NEPLANIRANI_RAD
+    };
+
+    public enum TipPotrosaca
+    {
+        REZIDENTALNI,
+        KOMERCIJALNI
+    };
 
 }
