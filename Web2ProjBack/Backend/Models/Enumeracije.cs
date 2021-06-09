@@ -31,4 +31,17 @@ namespace Backend.Models
         KOMERCIJALNI
     };
 
+    public enum TipEntiteta
+    {
+        EKIPE,
+        ELEMENTS,
+        INCIDENTS,
+        NALOZI,
+        PLANOVI,
+        PORUKE,
+        POTROSACI,
+        POZIVI,
+        RESOLUTIONS,
+        SAFETY_DOCUMENTS
+    };
 }
