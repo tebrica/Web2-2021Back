@@ -181,3 +181,4 @@ D:\Maka\Fax\FAX IV\II SEMESTAR\Web2\WEB2 Projekat React\web-back\Web2-2021Back\W
 D:\Maka\Fax\FAX IV\II SEMESTAR\Web2\WEB2 Projekat React\web-back\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.dll
 D:\Maka\Fax\FAX IV\II SEMESTAR\Web2\WEB2 Projekat React\web-back\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
 D:\Maka\Fax\FAX IV\II SEMESTAR\Web2\WEB2 Projekat React\web-back\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+C:\Users\tebrica\source\repos\Web2-2021Back\Web2ProjBack\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache

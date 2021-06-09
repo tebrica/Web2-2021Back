@@ -5654,23 +5654,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mlazo\\.nuget\\packages\\": {},
+    "C:\\Users\\tebrica\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Maka\\Fax\\FAX IV\\II SEMESTAR\\Web2\\WEB2 Projekat React\\web-back\\Web2-2021Back\\Web2ProjBack\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\tebrica\\source\\repos\\Web2-2021Back\\Web2ProjBack\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "D:\\Maka\\Fax\\FAX IV\\II SEMESTAR\\Web2\\WEB2 Projekat React\\web-back\\Web2-2021Back\\Web2ProjBack\\Backend\\Backend.csproj",
-      "packagesPath": "C:\\Users\\mlazo\\.nuget\\packages\\",
-      "outputPath": "D:\\Maka\\Fax\\FAX IV\\II SEMESTAR\\Web2\\WEB2 Projekat React\\web-back\\Web2-2021Back\\Web2ProjBack\\Backend\\obj\\",
+      "projectPath": "C:\\Users\\tebrica\\source\\repos\\Web2-2021Back\\Web2ProjBack\\Backend\\Backend.csproj",
+      "packagesPath": "C:\\Users\\tebrica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tebrica\\source\\repos\\Web2-2021Back\\Web2ProjBack\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mlazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tebrica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5735,7 +5738,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
